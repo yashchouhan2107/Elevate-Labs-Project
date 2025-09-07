@@ -8,6 +8,6 @@ Compile command :- javac -cp lib/ojdbc8.jar -d out src/app/*.java
 
 Runnin Command :- java -cp lib/ojdbc8.jar;out app.Main
 
-And After login enter login credentials like :=
+And After login enter login credentials like :-
 Username :- alice
 password :- alice123
