@@ -1,0 +1,4 @@
+username,quiz,started_at,ended_at,score,total
+,,null,null,0,0
+
+question,selected,correct,is_correct
