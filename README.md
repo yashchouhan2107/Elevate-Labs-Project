@@ -6,7 +6,7 @@ Project 2 :- Online quiz app
 
 Compile command :- javac -cp lib/ojdbc8.jar -d out src/app/*.java
 
-Runnin Command :- java -cp lib/ojdbc8.jar;out app.Main
+Running Command :- java -cp lib/ojdbc8.jar;out app.Main
 
 And After login enter login credentials like :-
 Username :- alice
